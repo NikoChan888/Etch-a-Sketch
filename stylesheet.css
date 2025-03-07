@@ -1,0 +1,12 @@
+.cell{
+    border: 1px black;
+    display:flex;
+    background-color: aqua;
+}
+#main{
+    position:fixed;
+    height:100%;
+    aspect-ratio : 1 / 1;
+    display:grid;
+    gap:1px;
+}
